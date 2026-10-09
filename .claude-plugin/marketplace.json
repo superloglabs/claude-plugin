@@ -1,0 +1,16 @@
+{
+  "name": "superlog",
+  "description": "Superlog plugins for Claude Code",
+  "owner": {
+    "name": "Superlog",
+    "email": "support@superlog.sh",
+    "url": "https://superlog.sh"
+  },
+  "plugins": [
+    {
+      "name": "superlog",
+      "source": "./plugins/superlog",
+      "description": "Manage Superlog automations, runs, tag mode, models, and integrations from Claude."
+    }
+  ]
+}

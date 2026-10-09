@@ -1,0 +1,20 @@
+{
+  "name": "superlog",
+  "displayName": "Superlog",
+  "version": "1.0.0",
+  "description": "Manage Superlog automations, runs, tag mode, models, and integrations from Claude.",
+  "author": {
+    "name": "Superlog",
+    "email": "support@superlog.sh",
+    "url": "https://superlog.sh"
+  },
+  "homepage": "https://docs.superlog.sh/assistants/claude",
+  "repository": "https://github.com/superloglabs/claude-plugin",
+  "license": "Apache-2.0",
+  "keywords": ["superlog", "automations", "incident-response", "mcp"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://docs.superlog.sh/assistants/claude",
+  "supportUrl": "https://superlog.sh/support",
+  "privacyPolicyUrl": "https://superlog.sh/privacy",
+  "termsOfServiceUrl": "https://superlog.sh/terms"
+}
