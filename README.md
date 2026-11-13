@@ -27,6 +27,9 @@ Claude acts as you in the workspace you chose. To switch workspaces, choose **Cl
 - "Connect GitHub to my Superlog workspace."
 - "Why did the last run of the triage automation fail?"
 - "Let tag mode read the `acme/web` repository."
+- "Watch the checkout alert and tell me when it fires."
+
+A watch tells the conversation when an alert fires or recovers, a synthetic check fails or recovers, a new error appears or a resolved one comes back, or matching logs arrive, so Claude doesn't have to check again. The watch's result may ask Claude to start a background listener, or to offer you a one-time install from [Wakeshift](https://wakeshift.ai), which delivers the notification.
 
 Workspace secrets and model API keys are not available as tools, so their values never pass through the model. Add them in the Superlog app.
 
